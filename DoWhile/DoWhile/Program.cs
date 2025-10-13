@@ -30,5 +30,6 @@ if (kasutajaNimi == "user1")
         tsükliMuutuja -= 1;
 
     } while (tsükliMuutuja != 0);
+    Console.WriteLine($"Palun, siin on sinu ruut, suurusega {ruuduSuurus}x{reakujund}");
 }
 
